@@ -1,3 +1,5 @@
+
+
 // Función para encontrar la palabra más larga usando Sliding Window
 const encontrarPalabraMasLarga = texto => {
     // Dividir el texto en palabras, eliminando signos de puntuación simples
